@@ -1,6 +1,6 @@
 # quotesApi
 
-Api has a rate limit so if you get a "" try again later because the api limit has been reached 
+Api has a rate limit so if you get a "udefined quote" try again later because the api limit has been reached 
 
 A simple quotes site that utilizes two different API.
 [Quote of the day API]([https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6](https://rapidapi.com/ipworld/api/quotes-inspirational-quotes-motivational-quotes)https://rapidapi.com/ipworld/api/quotes-inspirational-quotes-motivational-quotes).
