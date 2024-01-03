@@ -11,6 +11,7 @@ A simple quotes site that utilizes two different API.
 <img width="623" alt="Screenshot 2024-01-02 at 10 42 32 PM" src="https://github.com/dekema9924/quotesApi/assets/143339000/1f9807ff-f1bb-491b-9bdb-a2f8e97700d7">
 
 ### Links
+[Live Demo](https://dekema9924.github.io/quotesApi/)
 
 
 ### Built with
